@@ -1,3 +1,3 @@
 # js-image-slider
 
-[Demo](https://ludmilajalcova.github.io/js-image-slider)
+[Demo](https://ludmilaschlegelova.github.io/js-image-slider)
